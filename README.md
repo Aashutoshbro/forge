@@ -79,3 +79,5 @@ If you are interested in reporting/fixing issues and contributing directly to th
 
 Please report bugs or feature requests in our [issue tracker](https://github.com/electron/forge/issues).
 You can find help for debugging your Electron Forge on the [Support page](https://github.com/electron/forge/blob/main/SUPPORT.md), and ask questions in the [official Electron Discord server](https://discord.gg/invite/APGC3k5yaH), where there is a dedicated channel for Electron Forge.
+
+
